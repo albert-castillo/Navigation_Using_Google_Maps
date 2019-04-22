@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Google_castilloa15_Maps</string>
+    <string name="header">How to drive to MSU!</string>
+    <string name="instruction">The app will help guide you to NJs Montclair State University.  The app works by first clicking the Drive to MSU button below.  This causes the app to automatically open Google maps.  Then Google Maps will provided you guided directions to NJs Montclair State University</string>
+    <string name="btn">Drive to MSU</string>
+</resources>
